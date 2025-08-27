@@ -1,0 +1,22 @@
+
+#banner {
+    min-height: 25rem;
+    background-image: url(../img/super-onze/super-onze-manga.webp);
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.preto-branco{
+    filter: grayscale(100%);
+}
+
+.preto-branco:hover {
+    filter: grayscale(0%);
+}
+
+#topo {
+
+}
+    
